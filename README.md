@@ -40,6 +40,7 @@
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/pwnable-ff4d85?style=for-the-badge&logo=pwnable&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>&nbsp
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
