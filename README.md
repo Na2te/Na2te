@@ -13,6 +13,8 @@
 -->
 
 <!-- 백준 티어 부분 -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=111sym)](https://solved.ac/111sym)
 <div align="center">
     <a href="https://solved.ac/profile/111sym" target="_blank">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=111sym"/>
