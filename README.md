@@ -14,8 +14,9 @@
 
 <!-- 백준 티어 부분 -->
 <div align="center">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=111sym" onclick="location.href='https://solved.ac/111sym/'"/>
-    
+    <a href="https://solved.ac/111sym/" target="_blank">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=111sym"/>
+    </a>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
