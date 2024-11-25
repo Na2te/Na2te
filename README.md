@@ -14,7 +14,7 @@
 
 <!-- 백준 티어 부분 -->
 <div align="center">
-    <a href="https://solved.ac/111sym/" target="_blank">
+    <a href="https://solved.ac/profile/111sym" target="_blank">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=111sym"/>
     </a>
 </div>
