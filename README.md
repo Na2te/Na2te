@@ -55,11 +55,11 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://hangeulmansae.github.io/">
-    <img src="https://img.shields.io/badge/gitblog-181717?style=for-the-badge&logo=github&&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/gitblog-181717?style=for-the-badge&logo=github&&logoColor=white" />
   </a>
   <a href="mailto:2525sym@gmail.com">
     <img
-      src="https://img.shields.io/badge/2525sym@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/2525sym@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
